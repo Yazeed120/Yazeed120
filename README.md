@@ -1,8 +1,3 @@
-<!-- Custom Welcome Banner -->
-<div align="center">
-  <img src="https://e1.pxfuel.com/desktop-wallpaper/703/926/desktop-wallpaper-don-t-know-if-i-should-post-it-here-but-i-edited-the-leap-of-faith-leap-of-faith.jpg" alt="Welcome Banner" width="100%" />
-</div>
-
 <!-- Header -->
 <h1 align="center">Hi there 👋 I'm Yazeed Alnuweihi</h1>
 <h3 align="center">Junior Software QA Tester | Manual and Automation Testing</h3>
@@ -15,17 +10,17 @@
 <!-- About Me -->
 <h3 align="center">👨‍💻 About Me</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0e75b6&size=24&center=true&vCenter=true&width=500&lines=Passionate+QA+Engineer;Learning+Automation+Testing;API+Testing+with+Postman+%26+JMeter;Eager+to+learn+and+grow!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0e75b6&size=24&center=true&vCenter=true&width=500&lines=Passionate+QA+Engineer;Eager+to+learn+and+grow!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  I'm a Junior QA Tester with hands-on experience in manual and automation testing. I'm constantly improving my skills in tools like Selenium, TestNG, Cucumber, and exploring performance testing with JMeter. I enjoy learning, solving problems, and contributing to high-quality software.
+  I'm a Software Quality Assurance Engineer with hands-on experience in Manual and Automation Testing, API testing, performance testing, and CI/CD pipelines. I have a solid understanding of the full software testing lifecycle and actively contribute to delivering high-quality software products. I’m detail-oriented, organized, and efficient in identifying bugs and ensuring product reliability.
 </p>
 
 <!-- Connect with me -->
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/yazeed-alnuweihi" target="_blank">
+  <a href="https://www.linkedin.com/in/yazeed-al-nuweihi-b54047372" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="mailto:yazeedalnuweihi@gmail.com" target="_blank">
@@ -47,17 +42,19 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<!-- Projects Section -->
-## 🚀 Projects
-Here are some of the things I’ve worked on or contributed to:
+<!-- Experience & Skills -->
+## 🔥 Experience & Skills
 
-- 🔹 **Automated Web Testing** using Selenium + TestNG  
-- 🔹 **API Testing Projects** with Postman (REST APIs)  
-- 🔹 **Performance Testing Practice** using JMeter  
-- 🔹 **BDD Testing** with Cucumber & Gherkin syntax  
-- 🔹 **Database Queries** using MySQL  
+- **Automated Web Testing:** Selenium + TestNG  
+- **API Testing:** Postman (REST APIs)  
+- **BDD Testing:** Cucumber  
+- **Database:** MySQL Queries  
 
-> You can explore my repositories [here](https://github.com/Yazeed120?tab=repositories)
+- **Performance Testing:** Learning with JMeter  
+- **CI/CD:** Learning Jenkins  
+- **REST API:** Learning and practicing  
+
+> Check out my projects on [GitHub](https://github.com/Yazeed120?tab=repositories)
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
