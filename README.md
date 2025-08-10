@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there 👋 I'm Yazeed Alnuweihi</h1>
-<h3 align="center">Junior Software QA Tester | Manual and Automation Testing</h3>
+<h3 align="center">Junior Software QA Engineer | Manual and Automation Testing</h3>
 
 <!-- Profile views -->
 <p align="center"> 
